@@ -22,7 +22,7 @@ Uma lista de tarefas simples criada para uso pessoal com Flask, HTML e CSS.
 Uma aplicação para manipulação de dados armazenados em arquivos `.json`, utilizando Streamlit e Pandas.
 ![Atualização de Contatos](static/media/projeto3.jpg)
 
-# 4. [Final Exodus](https://github.com/Murilonuness/Final-Exodus)
+### 4. [Final Exodus](https://github.com/Murilonuness/Final-Exodus)
 Jogo criado com Python e com a biblioteca Pygame.
 ![Atualização de Contatos](static/media/projeto4.jpg)
 
