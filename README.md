@@ -24,7 +24,7 @@ Uma aplicação para manipulação de dados armazenados em arquivos `.json`, uti
 
 # 4. [Final Exodus](https://github.com/Murilonuness/Final-Exodus)
 Jogo criado com Python e com a biblioteca Pygame.
-![Atualização de Contatos](/static/media/projeto4.jpg)
+![Atualização de Contatos](static/media/projeto4.jpg)
 
 ### 5. [Estudos de Lógica com Python](https://github.com/Murilonuness/Estudos-de-Logica-e-Python)
 Uma coleção de exercícios lógicos autodidatas em Python.
