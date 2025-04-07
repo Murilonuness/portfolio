@@ -14,21 +14,26 @@ Aqui estão alguns dos projetos que desenvolvi:
 Um projeto completo com registro, login e uma página administrativa privada. Este é um sistema CRUD básico que usa Flask no backend e MySQL no banco de dados.
 ![CRUD com Flask](static/media/projeto1.jpg)
 
-### 2. [To-Do List Funcional com Flask, HTML e CSS](https://github.com/Murilonuness/ToDo-List-com-Flask)
-Uma lista de tarefas simples criada para uso pessoal com Flask, HTML e CSS.
-![To-Do List](static/media/projeto2.jpg)
+### 2. [Ecommerce Terminal](https://github.com/Murilonuness/ecommerce-Terminal)
+Um sistema de Ecommerce pelo terminal, utilizando Mysql, JWT e Werkzeug Security.
+![Ecommerce Terminal](static/media/projeto2.png)
 
 ### 3. [Atualização de Dados com Streamlit](https://github.com/Murilonuness/jsonCrud-Streamlit)
 Uma aplicação para manipulação de dados armazenados em arquivos `.json`, utilizando Streamlit e Pandas.
-![Atualização de Contatos](static/media/projeto3.jpg)
+![Atualização de Dados](static/media/projeto3.jpg)
 
-### 4. [Final Exodus](https://github.com/Murilonuness/Final-Exodus)
-Jogo criado com Python e com a biblioteca Pygame.
-![Atualização de Contatos](static/media/projeto4.jpg)
+### 4. [Final Exodus](https://github.com/Murilonuness/Final-Exodus)  
+Jogo criado com Python e com a biblioteca Pygame.  
+[🎥 Assista ao vídeo de demonstração no YouTube](https://www.youtube.com/watch?v=yhymvDdb1yE)  
+![Final Exodus](static/media/projeto4.jpg)
 
 ### 5. [Estudos de Lógica com Python](https://github.com/Murilonuness/Estudos-de-Logica-e-Python)
 Uma coleção de exercícios lógicos autodidatas em Python.
 ![Estudos de Lógica](static/media/projeto5.jpg)
+
+### 6. [To-Do List Funcional com Flask, HTML e CSS](https://github.com/Murilonuness/ToDo-List-com-Flask)
+Uma lista de tarefas simples criada para uso pessoal com Flask, HTML e CSS.
+![To-Do List](static/media/projeto6.jpg)
 
 ## Tecnologias
 
