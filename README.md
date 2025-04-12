@@ -53,7 +53,7 @@ Aqui estão algumas das tecnologias que utilizo em meus projetos:
 Você pode entrar em contato comigo através dos seguintes canais:
 
 - [GitHub](https://github.com/Murilonuness)
-- [Discord](https://discord.com/users/549689742078246913)
+- [Telegram](https://t.me/murilonunes)
 - [WhatsApp](https://wa.me/+5515991227119)
 
 ## Licença
