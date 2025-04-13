@@ -14,7 +14,7 @@ Aqui estão alguns dos projetos que desenvolvi:
 Um projeto completo com registro, login e uma página administrativa privada. Este é um sistema CRUD básico que usa Flask no backend e MySQL no banco de dados.
 ![CRUD com Flask](static/media/projeto1.jpg)
 
-### 2. [Controle Financeiro com Streamlit e Google Sheets](https://github.com/Murilonuness/ToDo-List-com-Flask)
+### 2. [Controle Financeiro com Streamlit e Google Sheets](https://github.com/Murilonuness/Controle-Financeiro)
 Aplicação que usa a API Google Sheets para gerenciar finanças pessoais com Streamlit.
 ![Controle-Financeiro](static/media/projeto2.png)
 
